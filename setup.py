@@ -8,7 +8,7 @@ binfiles = glob.glob('bin/*')
 
 setuptools.setup(
     name='bucketfinder',
-    version='1.2.2',
+    version='1.2.3',
     scripts = binfiles,
     author='phx',
     author_email='phx@example.com',
